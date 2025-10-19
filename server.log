@@ -1,0 +1,149 @@
+$ next dev --turbopack
+   ▲ Next.js 15.5.3 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1988ms
+ ○ Compiling / ...
+ ✓ Compiled / in 9.3s
+ GET / 200 in 7991ms
+ GET / 200 in 10581ms
+ ○ Compiling /favicon.ico ...
+ ⚠ Cross origin request detected from logistics-dashboard.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /favicon.ico in 737ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 1091ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 424ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 260ms
+ GET / 200 in 166ms
+ GET / 200 in 133ms
+ GET / 200 in 140ms
+ GET / 200 in 98ms
+ ✓ Compiled in 347ms
+ ✓ Compiled /api/sheets in 439ms
+ GET /api/sheets 200 in 1478ms
+ GET /api/sheets 200 in 1022ms
+ GET / 200 in 433ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 426ms
+ GET /favicon.ico 200 in 280ms
+ GET /api/sheets 200 in 620ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 288ms
+ GET /api/sheets 200 in 575ms
+ GET / 200 in 239ms
+ GET /api/sheets 200 in 965ms
+ GET /api/sheets 200 in 689ms
+ GET / 200 in 193ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 293ms
+ GET /api/sheets 200 in 805ms
+ GET / 200 in 173ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 315ms
+ GET /api/sheets 200 in 309ms
+ GET / 200 in 222ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 269ms
+ GET /api/sheets 200 in 289ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 259ms
+ GET / 200 in 704ms
+ GET /api/sheets 200 in 302ms
+ GET /api/sheets 200 in 256ms
+ GET / 200 in 197ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 263ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 254ms
+ GET /api/sheets 200 in 261ms
+ GET /favicon.ico 200 in 263ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 255ms
+ GET /api/sheets 200 in 259ms
+ GET /api/sheets 200 in 266ms
+ GET / 200 in 218ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 267ms
+ GET /api/sheets 200 in 269ms
+ GET /api/sheets 200 in 269ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 265ms
+ ✓ Compiled in 286ms
+ GET /api/sheets 200 in 295ms
+ GET / 200 in 720ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 285ms
+ GET /api/sheets 200 in 278ms
+ GET /api/sheets 200 in 268ms
+ GET /favicon.ico 200 in 257ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 291ms
+ GET / 200 in 248ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 288ms
+ GET /api/sheets 200 in 293ms
+ GET /api/sheets 200 in 284ms
+ GET / 200 in 221ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 272ms
+ GET /api/sheets 200 in 280ms
+ GET /api/sheets 200 in 276ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 266ms
+ ✓ Compiled in 555ms
+ GET /api/sheets 200 in 322ms
+ GET /api/sheets 200 in 375ms
+ GET /api/sheets 200 in 373ms
+ GET / 200 in 845ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 270ms
+ GET /api/sheets 200 in 288ms
+ GET /favicon.ico 200 in 272ms
+ GET /api/sheets 200 in 255ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 319ms
+ GET / 200 in 762ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 306ms
+ GET /api/sheets 200 in 356ms
+ GET /favicon.ico 200 in 283ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 276ms
+ GET /api/sheets 200 in 322ms
+ GET / 200 in 805ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 284ms
+ GET /api/sheets 200 in 273ms
+ GET /favicon.ico 200 in 263ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 281ms
+ GET /api/sheets 200 in 266ms
+ GET / 200 in 235ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 306ms
+ GET /api/sheets 200 in 341ms
+ GET /favicon.ico 200 in 276ms
+ GET /api/sheets 200 in 288ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 290ms
+ GET / 200 in 206ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 282ms
+ GET /api/sheets 200 in 327ms
+ GET /favicon.ico 200 in 263ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 263ms
+ GET /api/sheets 200 in 284ms
+ GET /api/sheets 200 in 586ms
+ GET / 200 in 597ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 293ms
+ GET /api/sheets 200 in 276ms
+ GET /favicon.ico 200 in 260ms
+ GET /api/sheets 200 in 267ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 335ms
+ GET / 200 in 238ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 305ms
+ GET /api/sheets 200 in 360ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 274ms
+ GET /api/sheets 200 in 263ms
+ GET /favicon.ico 200 in 261ms
+ GET / 200 in 197ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 305ms
+ GET /api/sheets 200 in 337ms
+ GET /api/sheets 200 in 276ms
+ GET /favicon.ico 200 in 273ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 267ms
+ GET / 200 in 259ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 293ms
+ GET /api/sheets 200 in 345ms
+ GET /favicon.ico 200 in 264ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 296ms
+ GET /api/sheets 200 in 278ms
+ GET / 200 in 422ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 325ms
+ GET /api/sheets 200 in 362ms
+ GET /favicon.ico 200 in 290ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 266ms
+ GET /api/sheets 200 in 277ms
+ GET /api/sheets 200 in 280ms
