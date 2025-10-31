@@ -333,8 +333,8 @@ export async function GET(request: NextRequest) {
         diesel: SAMPLE_DIESEL_DATA,
         propaneTotals: {
           gallonsRemaining: 200,
-          gallonsPumped: 1925,
-          canisters: 269,
+          gallonsPumped: 2050,
+          canisters: 286,
         },
         dieselTotal: SAMPLE_DIESEL_DATA.reduce((sum, item) => sum + item.gallons, 0),
       });
@@ -348,8 +348,8 @@ export async function GET(request: NextRequest) {
           diesel: SAMPLE_DIESEL_DATA,
           propaneTotals: {
             gallonsRemaining: 200,
-            gallonsPumped: 1925,
-            canisters: 269,
+            gallonsPumped: 2050,
+            canisters: 286,
           },
           dieselTotal: SAMPLE_DIESEL_DATA.reduce((sum, item) => sum + item.gallons, 0),
         },
